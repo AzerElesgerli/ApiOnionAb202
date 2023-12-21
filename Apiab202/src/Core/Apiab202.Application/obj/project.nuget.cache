@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "Ljwz9JmzxvCONas58lpQMmI7Ga2WNtsOmdI/LaLRIBz3pIMD83nGzB7dcCntcHNmZfbTPseAE2wvm++5KC5AnQ==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\Apiab202\\src\\Core\\Apiab202.Application\\Apiab202.Application.csproj",
+  "dgSpecHash": "5peKmD6Hi/oLRtKp7ZIyH8gdsAz8Ch0YSzIeqAgD9+UK8CvEeB6WTgVHD+lDVgIbVgwWGAJAH8KYQpKz/rFfCg==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\ApiOnionAb202\\Apiab202\\src\\Core\\Apiab202.Application\\Apiab202.Application.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\user\\Desktop\\ApiOnionAb202\\Code\\Apiab202.Domain\\Apiab202.Domain.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\user\\Desktop\\ApiOnionAb202\\Code\\Apiab202.Domain\\Apiab202.Domain.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
 }

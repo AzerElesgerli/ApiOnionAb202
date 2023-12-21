@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jP8hwMhmdmXW3AtvzTG6anx9QqKA1NQq3ASso3q5zdJmrd+XTpuiMXMZoYFIZLvHa8yenGzGQ9jbM4+vbWGxHQ==",
+  "dgSpecHash": "IpbjZv/9OoIePyLe7awLNZmliUQmvBUnKzVQrksZWLcN9KfnmswmQ2yfEK/W9c+EEv/pC0sTsuUUGByHsMk/Zg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\Apiab202\\src\\Infrastructure\\Apiab202.Infrastructure\\Apiab202.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\user\\Desktop\\ApiOnionAb202\\Apiab202\\src\\Infrastructure\\Apiab202.Infrastructure\\Apiab202.Infrastructure.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

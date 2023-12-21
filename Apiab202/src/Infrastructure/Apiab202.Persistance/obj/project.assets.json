@@ -737,16 +737,6 @@
             "rid": "win"
           }
         }
-      },
-      "Apiab202.Domain/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "compile": {
-          "bin/placeholder/Apiab202.Domain.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Apiab202.Domain.dll": {}
-        }
       }
     }
   },
@@ -1912,16 +1902,11 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
-    },
-    "Apiab202.Domain/1.0.0": {
-      "type": "project",
-      "path": "../../../../Code/Apiab202.Domain/Apiab202.Domain.csproj",
-      "msbuildProject": "../../../../Code/Apiab202.Domain/Apiab202.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Apiab202.Domain >= 1.0.0",
+      "C:\\Users\\user\\Desktop\\ApiOnionAb202\\Code\\Apiab202.Domain\\Apiab202.Domain.csproj",
       "Microsoft.EntityFrameworkCore >= 6.0.25",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.25"
     ]
@@ -1932,11 +1917,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\Apiab202\\src\\Infrastructure\\Apiab202.Persistance\\Apiab202.Persistance.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\ApiOnionAb202\\Apiab202\\src\\Infrastructure\\Apiab202.Persistance\\Apiab202.Persistance.csproj",
       "projectName": "Apiab202.Persistance",
-      "projectPath": "C:\\Users\\user\\Desktop\\Apiab202\\src\\Infrastructure\\Apiab202.Persistance\\Apiab202.Persistance.csproj",
+      "projectPath": "C:\\Users\\user\\Desktop\\ApiOnionAb202\\Apiab202\\src\\Infrastructure\\Apiab202.Persistance\\Apiab202.Persistance.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\Apiab202\\src\\Infrastructure\\Apiab202.Persistance\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\ApiOnionAb202\\Apiab202\\src\\Infrastructure\\Apiab202.Persistance\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1953,8 +1938,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\user\\Desktop\\Code\\Apiab202.Domain\\Apiab202.Domain.csproj": {
-              "projectPath": "C:\\Users\\user\\Desktop\\Code\\Apiab202.Domain\\Apiab202.Domain.csproj"
+            "C:\\Users\\user\\Desktop\\ApiOnionAb202\\Code\\Apiab202.Domain\\Apiab202.Domain.csproj": {
+              "projectPath": "C:\\Users\\user\\Desktop\\ApiOnionAb202\\Code\\Apiab202.Domain\\Apiab202.Domain.csproj"
             }
           }
         }
@@ -1997,5 +1982,16 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\user\\Desktop\\ApiOnionAb202\\Code\\Apiab202.Domain\\Apiab202.Domain.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\user\\Desktop\\ApiOnionAb202\\Code\\Apiab202.Domain\\Apiab202.Domain.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
 }

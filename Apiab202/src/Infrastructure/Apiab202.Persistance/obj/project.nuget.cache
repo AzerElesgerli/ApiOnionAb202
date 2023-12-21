@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lj34N4GegUn/fvOc637/Ce4Jikg+K55yMlIb0lRocYodh3ej09Nsg2/DhgY7W68MBw06h/WwTPNX8XftXsyI/A==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\Apiab202\\src\\Infrastructure\\Apiab202.Persistance\\Apiab202.Persistance.csproj",
+  "dgSpecHash": "fbBe8BKzrESBbOSTThjUujvV9stXooEEsdnyqGetg3FohTQQ6zGpBPS+7EVhw4ACLWtpMoUIJD0TuQH97QML0g==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\ApiOnionAb202\\Apiab202\\src\\Infrastructure\\Apiab202.Persistance\\Apiab202.Persistance.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
@@ -45,5 +45,15 @@
     "C:\\Users\\user\\.nuget\\packages\\system.text.encoding.codepages\\4.7.0\\system.text.encoding.codepages.4.7.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\user\\Desktop\\ApiOnionAb202\\Code\\Apiab202.Domain\\Apiab202.Domain.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\user\\Desktop\\ApiOnionAb202\\Code\\Apiab202.Domain\\Apiab202.Domain.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
 }
