@@ -11,17 +11,17 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{E930DDEA-4
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apiab202.Domain", "..\Code\Apiab202.Domain\Apiab202.Domain.csproj", "{DCD645DA-99A0-457A-AE1D-5807BA5286B4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apiab202.Application", "src\Core\Apiab202.Application\Apiab202.Application.csproj", "{48BFEBB7-66EB-4BC1-BFC3-D89788826550}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Apiab202.Application", "src\Core\Apiab202.Application\Apiab202.Application.csproj", "{48BFEBB7-66EB-4BC1-BFC3-D89788826550}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{AEAE3A6E-0B02-47E3-856B-0E24E854479A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apiab202.Persistance", "src\Infrastructure\Apiab202.Persistance\Apiab202.Persistance.csproj", "{1508DB8E-392F-4C86-9112-74CD23657BD6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Apiab202.Persistance", "src\Infrastructure\Apiab202.Persistance\Apiab202.Persistance.csproj", "{1508DB8E-392F-4C86-9112-74CD23657BD6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apiab202.Infrastructure", "src\Infrastructure\Apiab202.Infrastructure\Apiab202.Infrastructure.csproj", "{48FE9168-1168-4B89-98F3-6FE5378F5575}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Apiab202.Infrastructure", "src\Infrastructure\Apiab202.Infrastructure\Apiab202.Infrastructure.csproj", "{48FE9168-1168-4B89-98F3-6FE5378F5575}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{F2AD159E-EDB7-46F6-B617-339124C7254F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apiab202.API", "src\Presentation\Apiab202.API\Apiab202.API.csproj", "{1976CD80-FEEC-4C6F-94B8-63A4A92C85A3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Apiab202.API", "src\Presentation\Apiab202.API\Apiab202.API.csproj", "{1976CD80-FEEC-4C6F-94B8-63A4A92C85A3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
